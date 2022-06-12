@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on iOS Development projects
 - 🌱 I’m currently learning Vapor Swift server app
 - 💬 Ask me about iOS Development
-- 📫 How to reach me: [Bytewave](https://pieterbikkel.com)
+- 📫 How to reach me: [my portfolio](https://pieterbikkel.com)
 - ⚡ Fun fact: I like Italian food
